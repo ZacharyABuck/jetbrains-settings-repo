@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+</keymap>
