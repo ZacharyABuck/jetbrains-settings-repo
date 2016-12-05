@@ -1,5 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://soap.sforce.com/2006/04/metadata" location="home/zachary/.IdeaIC2016.2/config/plugins/IlluminatedCloud/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
+    <resource url="http://soap.sforce.com/2006/04/metadata" location="home/zachary/.IdeaIC2016.3/config/plugins/IlluminatedCloud/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
   </component>
 </application>
