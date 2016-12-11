@@ -2,7 +2,6 @@
   <component name="IlluminatedCloudSettings">
     <option name="needsConfigUpgrade" value="false" />
     <option name="promptOverrideSaveAllAction" value="false" />
-    <option name="validateApexOnEdit" value="true" />
-    <option name="validateVisualforceOnEdit" value="true" />
+    <option name="useSeparateSourceRootForStaticResourceBundles" value="true" />
   </component>
 </application>
