@@ -1,0 +1,12 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="BrowseWordAtCaretPlugin.Next">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="BrowseWordAtCaretPlugin.Previous">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+</keymap>
