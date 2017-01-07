@@ -9,10 +9,6 @@
   <action id="EditorLookupUp" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
-  <action id="IlluminatedCloud.SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
